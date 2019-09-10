@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab10</string>
+    <string name="text">The CourseApp</string>
+    <string name="text2">UserName</string>
+    <string name="text3">Password</string>
+    <string name="btn1">LOGIN</string>
+    <string name="btn2">Register</string>
+    <string name="text4">Register form</string>
+    <string name="btn3">teacher</string>
+    <string name="btn5">Student</string>
+    <string name="text5">Subject</string>
+    <string name="text6">Message</string>
+    <string name="btn7">SEND</string>
+    <string name="text8">WLCOME USERNAME</string>
+</resources>
